@@ -67,7 +67,7 @@ class whatsapphomescreen extends StatelessWidget {
                 children: [
                   // Avatar
                   CircleAvatar(
-                    backgroundColor: Colors.pink,
+                    backgroundColor: Colors.yellow,
                     child: Text(
                       'F',
                       style: TextStyle(color: Colors.white),
