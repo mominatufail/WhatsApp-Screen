@@ -122,7 +122,7 @@ class whatsapphomescreen extends StatelessWidget {
                       ),
                       SizedBox(height: 5),
                       Text(
-                        'Ok!!!',
+                        'Ok!!',
                         style: TextStyle(color: Colors.grey[600]),
                       ),
                     ],
